@@ -1,5 +1,1 @@
-UPDATE FOR RECRUITERS: WEBSITE CURRENTLY UNDER MAINTENANCE - 48 hours
-
-
-
 # www.brianbe11.com Thanks!
