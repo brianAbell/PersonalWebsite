@@ -327,3 +327,14 @@ section{
 	clear: both;
 	display: table;
 }
+/* .h3 {
+
+	padding-top: 15px;
+	
+	} */
+	.resumo_fn_main_title {
+		margin-top: 70px
+	}
+	.resumo_fn_boxed_list {
+		margin-top: -55px
+	}
